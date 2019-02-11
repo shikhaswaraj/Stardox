@@ -45,7 +45,7 @@ P.S: Many new things will be added soon.
 ### Getting Started
 
 #### Steps to setup :
-
+shikha swaraj
 1. `git clone https://github.com/0xprateek/stardox`
 2. `cd stardox`
 3. `python ./setup.py install`
